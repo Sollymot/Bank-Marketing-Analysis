@@ -37,6 +37,9 @@ Interactive slicers were included to allow dynamic filtering by:
 *	Education
 *	Month
 
+# Dashboard Interaction
+<a href = "https://github.com/Sollymot/Bank-Marketing-Analysis/blob/main/image.png">View Dashboard</a>
+
 # Key Insights
 * Customers aged 31-50 showed a significantly high call minutes compared to younger(less than 30) and older groups. Also, customers aged 31-50 banked the highest housing loans as well as personal loans
 *	Married customers acquired the highest housing loans as well as personal loans, followed by the singles Married clients(31-50) has the highest loan default rate, then the divorced aged(31-50)
