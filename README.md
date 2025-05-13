@@ -1,5 +1,5 @@
 # Bank-Marketing-Analysis
-This research focuses on the analysis of direct marketing campaigns of a Portuguese banking institution
+This research focuses on the analysis of direct marketing campaigns of a Portuguese banking institution, using SQL for data cleaning and exploration and PowerBI for dashboard and visualization
 
 # Project Overview
 This project analyzes data from a direct marketing campaign by a Portuguese banking institution, aiming to improve customer engagement and term deposit subscription rates.
